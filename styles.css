@@ -1,0 +1,16 @@
+.body{
+    background-image: url('light_blue_sky.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.text {
+
+    color: rgb(63, 127, 205);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
